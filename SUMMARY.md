@@ -6,5 +6,5 @@
 * [第二章 啦啦啦德玛西亚](chaper3.md)
    * [第一节](chaper4.md)
    * [快速起步](chaper5.md)
-   * [小结](chaper6md.md)
+   * [小结](chaper6.md)
 
